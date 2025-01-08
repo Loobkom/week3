@@ -56,7 +56,7 @@ class AnswerPage3 extends StatelessWidget {
       margin: EdgeInsets.all(8),
       shape: RoundedRectangleBorder(
         borderRadius:
-        BorderRadius.circular(10), // Rounded corners for the cards
+            BorderRadius.circular(10), // Rounded corners for the cards
       ),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,

@@ -62,7 +62,7 @@ class AnswerPage2 extends StatelessWidget {
                     backgroundColor: Colors.grey[200],
                     shape: RoundedRectangleBorder(
                       borderRadius:
-                      BorderRadius.circular(30), // Rounded corners
+                          BorderRadius.circular(30), // Rounded corners
                     ),
                     padding: EdgeInsets.symmetric(
                         horizontal: 20, vertical: 10), // Text color
@@ -79,7 +79,7 @@ class AnswerPage2 extends StatelessWidget {
                     backgroundColor: Colors.grey[200],
                     shape: RoundedRectangleBorder(
                       borderRadius:
-                      BorderRadius.circular(30), // Rounded corners
+                          BorderRadius.circular(30), // Rounded corners
                     ),
                     padding: EdgeInsets.symmetric(
                         horizontal: 20, vertical: 10), // Text color
@@ -96,7 +96,7 @@ class AnswerPage2 extends StatelessWidget {
                     backgroundColor: Colors.grey[200],
                     shape: RoundedRectangleBorder(
                       borderRadius:
-                      BorderRadius.circular(30), // Rounded corners
+                          BorderRadius.circular(30), // Rounded corners
                     ),
                     padding: EdgeInsets.symmetric(
                         horizontal: 20, vertical: 10), // Text color

@@ -17,11 +17,11 @@ class AnswerPage1 extends StatelessWidget {
         padding: const EdgeInsets.all(20.0), // Padding around the content
         child: Column(
           crossAxisAlignment:
-          CrossAxisAlignment.start, // Align rows to the start of the screen
+              CrossAxisAlignment.start, // Align rows to the start of the screen
           children: <Widget>[
             Row(
               mainAxisAlignment:
-              MainAxisAlignment.center, // Center boxes horizontally
+                  MainAxisAlignment.center, // Center boxes horizontally
               children: <Widget>[
                 Container(width: 100, height: 100, color: Colors.red),
                 SizedBox(width: 20),
@@ -33,7 +33,7 @@ class AnswerPage1 extends StatelessWidget {
             SizedBox(height: 20),
             Row(
               mainAxisAlignment:
-              MainAxisAlignment.center, // Center boxes horizontally
+                  MainAxisAlignment.center, // Center boxes horizontally
               children: <Widget>[
                 Container(width: 100, height: 100, color: Colors.yellow),
                 SizedBox(width: 20),
